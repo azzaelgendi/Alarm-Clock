@@ -1,0 +1,30 @@
+G:\Concept2\Inclas\inClass2AlarmClock\inClass2AlarmClock\bin\Debug\inClass2AlarmClock.exe.config
+G:\Concept2\Inclas\inClass2AlarmClock\inClass2AlarmClock\bin\Debug\inClass2AlarmClock.exe
+G:\Concept2\Inclas\inClass2AlarmClock\inClass2AlarmClock\bin\Debug\inClass2AlarmClock.pdb
+G:\Concept2\Inclas\inClass2AlarmClock\inClass2AlarmClock\obj\Debug\inClass2AlarmClock.csprojResolveAssemblyReference.cache
+G:\Concept2\Inclas\inClass2AlarmClock\inClass2AlarmClock\obj\Debug\inClass2AlarmClock.alarmClockForm.resources
+G:\Concept2\Inclas\inClass2AlarmClock\inClass2AlarmClock\obj\Debug\inClass2AlarmClock.Properties.Resources.resources
+G:\Concept2\Inclas\inClass2AlarmClock\inClass2AlarmClock\obj\Debug\inClass2AlarmClock.csproj.GenerateResource.Cache
+G:\Concept2\Inclas\inClass2AlarmClock\inClass2AlarmClock\obj\Debug\inClass2AlarmClock.csproj.CoreCompileInputs.cache
+G:\Concept2\Inclas\inClass2AlarmClock\inClass2AlarmClock\obj\Debug\inClass2AlarmClock.exe
+G:\Concept2\Inclas\inClass2AlarmClock\inClass2AlarmClock\obj\Debug\inClass2AlarmClock.pdb
+C:\Users\Azza\Dropbox\conestoga\concept\inClass2AlarmClock\inClass2AlarmClock\bin\Debug\inClass2AlarmClock.exe.config
+C:\Users\Azza\Dropbox\conestoga\concept\inClass2AlarmClock\inClass2AlarmClock\bin\Debug\inClass2AlarmClock.exe
+C:\Users\Azza\Dropbox\conestoga\concept\inClass2AlarmClock\inClass2AlarmClock\bin\Debug\inClass2AlarmClock.pdb
+C:\Users\Azza\Dropbox\conestoga\concept\inClass2AlarmClock\inClass2AlarmClock\obj\Debug\inClass2AlarmClock.csprojResolveAssemblyReference.cache
+C:\Users\Azza\Dropbox\conestoga\concept\inClass2AlarmClock\inClass2AlarmClock\obj\Debug\inClass2AlarmClock.alarmClockForm.resources
+C:\Users\Azza\Dropbox\conestoga\concept\inClass2AlarmClock\inClass2AlarmClock\obj\Debug\inClass2AlarmClock.Properties.Resources.resources
+C:\Users\Azza\Dropbox\conestoga\concept\inClass2AlarmClock\inClass2AlarmClock\obj\Debug\inClass2AlarmClock.csproj.GenerateResource.Cache
+C:\Users\Azza\Dropbox\conestoga\concept\inClass2AlarmClock\inClass2AlarmClock\obj\Debug\inClass2AlarmClock.csproj.CoreCompileInputs.cache
+C:\Users\Azza\Dropbox\conestoga\concept\inClass2AlarmClock\inClass2AlarmClock\obj\Debug\inClass2AlarmClock.exe
+C:\Users\Azza\Dropbox\conestoga\concept\inClass2AlarmClock\inClass2AlarmClock\obj\Debug\inClass2AlarmClock.pdb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\concept\inClass2AlarmClock\inClass2AlarmClock\bin\Debug\inClass2AlarmClock.exe.config
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\concept\inClass2AlarmClock\inClass2AlarmClock\bin\Debug\inClass2AlarmClock.exe
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\concept\inClass2AlarmClock\inClass2AlarmClock\bin\Debug\inClass2AlarmClock.pdb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\concept\inClass2AlarmClock\inClass2AlarmClock\obj\Debug\inClass2AlarmClock.csprojAssemblyReference.cache
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\concept\inClass2AlarmClock\inClass2AlarmClock\obj\Debug\inClass2AlarmClock.alarmClockForm.resources
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\concept\inClass2AlarmClock\inClass2AlarmClock\obj\Debug\inClass2AlarmClock.Properties.Resources.resources
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\concept\inClass2AlarmClock\inClass2AlarmClock\obj\Debug\inClass2AlarmClock.csproj.GenerateResource.cache
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\concept\inClass2AlarmClock\inClass2AlarmClock\obj\Debug\inClass2AlarmClock.csproj.CoreCompileInputs.cache
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\concept\inClass2AlarmClock\inClass2AlarmClock\obj\Debug\inClass2AlarmClock.exe
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\concept\inClass2AlarmClock\inClass2AlarmClock\obj\Debug\inClass2AlarmClock.pdb
